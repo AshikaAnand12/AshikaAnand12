@@ -10,6 +10,7 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
 
  🛠 **Technologies and Tools:**    
 <u>Data Science</u>
+<span style="text-decoration:underline">this</span>
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPY" width="45" height="45"/>
