@@ -8,7 +8,7 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
 
 📝 [My Resume](https://drive.google.com/file/d/1mn0o6HlOw-0ilQ4BMx7jzd9X3niQEQya/view?usp=sharing).
 
-##🛠 Technologies and Tools:
+## 🛠 Technologies and Tools:    
 **Data Science**
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
