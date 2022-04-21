@@ -8,8 +8,8 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
 
 📝 [My Resume](https://drive.google.com/file/d/1mn0o6HlOw-0ilQ4BMx7jzd9X3niQEQya/view?usp=sharing).
 
-## 🛠 Technologies and Tools:    
-**Data Science**
+ 🛠 **Technologies and Tools:**    
+<u>Data Science</u>
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPY" width="45" height="45"/>
@@ -28,8 +28,9 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/> 
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/>
 </p>   
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">  **I mostly code in:**
+     
+     
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">**I mostly code in:**
 
 
 📈 **My GitHub Stats:**
