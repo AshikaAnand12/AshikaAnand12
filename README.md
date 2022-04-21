@@ -11,7 +11,7 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
 ---
 
 ####  🛠 Technologies and Tools   
-<u>Data Science</u>
+**Data Science**
 
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
@@ -26,10 +26,13 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Nodejs" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/express/express-icon.svg" alt="Express" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/react/react-icon.svg" alt="Reactjs" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/> 
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="mongodb" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="mongodb" width="45" height="45"/>
+      
 </p>   
      
 ---   
