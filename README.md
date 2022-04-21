@@ -8,7 +8,9 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
 
 📝 [My Resume](https://drive.google.com/file/d/1mn0o6HlOw-0ilQ4BMx7jzd9X3niQEQya/view?usp=sharing).
 
- 🛠 **Technologies and Tools:**    
+---
+
+####  🛠 Technologies and Tools   
 <u>Data Science</u>
 
 <p align="left">
@@ -30,11 +32,12 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/>
 </p>   
      
-     
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">**I mostly code in:**
+---   
+#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">I mostly code in
 
 
-📈 **My GitHub Stats:**
+---
+#### 📈 My GitHub Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshikaAnand12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikaAnand12&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
