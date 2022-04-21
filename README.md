@@ -10,23 +10,26 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
 
 ## 🛠 Technologies and Tools:    
 **Data Science**
-<p align="center">
+<p align="left">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPY" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="45" height="45"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="45"/>
-</p>
-**Web Technologies**
-<p align="center">
+</p>    
+
+**Web Technologies**    
+
+<p align="left">
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Nodejs" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/express/express-icon.svg" alt="Express" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/react/react-icon.svg" alt="Reactjs" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/> 
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/>
-</p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> **I mostly code in:**
+</p>   
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">  **I mostly code in:**
 
 
 📈 **My GitHub Stats:**
