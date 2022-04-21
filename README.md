@@ -10,12 +10,12 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
 
  🛠 **Technologies and Tools:**    
 <u>Data Science</u>
-<span style="text-decoration:underline">this</span>
+
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPY" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="45" height="45"/> 
+      <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="45" height="45"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="45"/>
 </p>    
 
