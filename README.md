@@ -27,11 +27,7 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="45" height="45"/>
 </p>    
 
-       
-#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">I mostly code in
-
-
-#### 📈 My GitHub Stats
+#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> My GitHub Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshikaAnand12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikaAnand12&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
