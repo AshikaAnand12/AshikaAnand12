@@ -4,7 +4,7 @@
 &nbsp;
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@ashika.pobbathi)
 
-I am a Data Science Graduate Student at San Jose State Univerisity. 
+I'm pursuing a Master of Science degree in Software engineering at San Jose State University (SJSU), specializing in Data Science and my GPA is 3.9. I am also an experienced Software Engineer with over two years of experience in Software Development.   
 
 **🛠 Technologies and Tools:**
 
