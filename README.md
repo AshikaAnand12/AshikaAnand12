@@ -6,7 +6,7 @@
 
 I'm pursuing a Master of Science degree in Software engineering at San Jose State University (SJSU), specializing in Data Science and my GPA is 3.9. I am also an experienced Software Engineer with over two years of experience in Software Development.   
 
-📝 [Resume](https://drive.google.com/file/d/1mn0o6HlOw-0ilQ4BMx7jzd9X3niQEQya/view?usp=sharing)
+#### 📝 [Resume](https://drive.google.com/file/d/1g5ClEXEqn6CWixgUo0TMLccixRrXDKG1/view?usp=sharing)
 
 
 ####  🛠 Technologies and Tools   
