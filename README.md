@@ -1,4 +1,4 @@
-## Hi there, I'm [Ashika Anand Babu](https://www.linkedin.com/in/ashikaa/)
+## Hi there, I'm [Ashika Anand Babu](https://ashikaanandbabu.godaddysites.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashikaa/)
 &nbsp;
@@ -6,7 +6,7 @@
 
 I'm pursuing a Master of Science degree in Software engineering at San Jose State University (SJSU), specializing in Data Science and my GPA is 3.9. I am also an experienced Software Engineer with over two years of experience in Software Development.   
 
-#### 📝 [Resume](https://drive.google.com/file/d/1dxKqKNZbkhdfS3HCPtvcOkmJcKVO-F1M/view?usp=sharing)
+#### 📝 [Resume](https://drive.google.com/file/d/1Ppu57lOz2MBr7-aMIhqd28QY1f7p2yDM/view?usp=sharing)
 
 
 ###  🛠 Technologies and Tools   
