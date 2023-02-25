@@ -12,7 +12,8 @@ I'm pursuing a Master of Science degree in Software engineering at San Jose Stat
 ###  🛠 Technologies and Tools   
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="48" height="48"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="48" height="48"/>
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="48" height="48"/>
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPY" width="48" height="48"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48"/>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48"/>
