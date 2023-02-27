@@ -4,7 +4,7 @@
 &nbsp;
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@ashika.pobbathi)
 
-I'm pursuing a Master of Science degree in Software engineering at San Jose State University (SJSU), specializing in Data Science and my GPA is 3.9. I am also an experienced Software Engineer with over two years of experience in Software Development.   
+I'm pursuing Master of Science degree in Software engineering at San Jose State University (SJSU), specializing in Data Science and my GPA is 3.88. I am also an experienced Software Engineer with over two years of experience in Software Development.   
 
 #### 📝 [Resume](https://drive.google.com/file/d/1Ppu57lOz2MBr7-aMIhqd28QY1f7p2yDM/view?usp=sharing)
 
