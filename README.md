@@ -1,4 +1,4 @@
-## Hi there, I'm [Ashika Anand Babu](https://ashikaanand12.github.io/profile/)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Hi there, I'm [Ashika Anand Babu](https://ashikaanand12.github.io/profile/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashikaa/)
 &nbsp;
@@ -36,6 +36,6 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> My GitHub Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshikaAnand12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikaAnand12&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikaAnand12&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
