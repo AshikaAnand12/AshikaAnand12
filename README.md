@@ -1,4 +1,4 @@
-## Hi there, I'm [Ashika Anand Babu](https://ashikaanandbabu.godaddysites.com)
+## Hi there, I'm [Ashika Anand Babu](https://ashikaanand12.github.io/profile/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashikaa/)
 &nbsp;
