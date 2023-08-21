@@ -50,5 +50,9 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
 ### Data Science Projects
 | Project Name   | Technologies and Techniques                           | Demo/Repo                   |
 |----------------|----------------------------------------|-----------------------------|
-| [Credit Card Fraud Detector](https://github.com/AshikaAnand12/CreditCardFraudDetector) | Python, PCA, AutoEncoder | [Repo](https://github.com/AshikaAnand12/CreditCardFraudDetector)
-| [Amazon Reviews Sentiment Analysis](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis) | Python, BERT Model, Sequential LSTM, NLTK | [Repo](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis)
+| [EnterpriseBot]() | Python, LLM, Open AI API | [Repo](https://github.com/ramyamahesh1126/chatbot)
+| [Covid Vaccine Sentiment Analysis](https://github.com/vishnuvryeruva/Covid-Vaccine-Sentiment-Prediction) | Python, NLTK | [Repo](https://github.com/vishnuvryeruva/Covid-Vaccine-Sentiment-Prediction)
+| [Credit Card Fraud Detector](https://github.com/AshikaAnand12/CreditCardFraudDetector) | Python, PCA, AutoEncoder | [Repo](https://github.com/AshikaAnand12/CreditCardFraudDetector) |
+| [Amazon Reviews Sentiment Analysis](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis) | Python, BERT Model, Sequential LSTM, NLTK | [Repo](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis) |
+| [House Price Prediction](https://github.com/AshikaAnand12/House-Listing-Price-Prediction/) | Python, NumPy, Pandas, Seaborn, Matplotlib, Regression techniques, Classifiers | [Repo](https://github.com/AshikaAnand12/House-Listing-Price-Prediction/) |
+| [Spam Filtering](https://github.com/AshikaAnand12/Spam-Filtering) | Python, NumPy, NLTK, TF-IDF | [Repo](https://github.com/AshikaAnand12/Spam-Filtering)
