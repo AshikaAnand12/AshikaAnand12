@@ -41,4 +41,4 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
 
 | Project Name   | Technologies                           | Demo Link                   |
 |----------------|----------------------------------------|-----------------------------|
-| GeoChronicle   | Reactjs, TailwindCSS, PWA, API Handling| [Demo](https://geochronicle.netlify.app) |
+| [GeoChronicle](https://github.com/AshikaAnand12/GeoChronicle)   | Reactjs, TailwindCSS, PWA, API Handling| [Demo](https://geochronicle.netlify.app) |
