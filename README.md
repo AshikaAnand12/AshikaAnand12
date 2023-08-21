@@ -51,3 +51,4 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
 | Project Name   | Technologies and Techniques                           | Demo/Repo                   |
 |----------------|----------------------------------------|-----------------------------|
 | [Credit Card Fraud Detector](https://github.com/AshikaAnand12/CreditCardFraudDetector) | Python, PCA, AutoEncoder | [Repo](https://github.com/AshikaAnand12/CreditCardFraudDetector)
+| [Amazon Reviews Sentiment Analysis](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis) | Python, BERT Model, Sequential LSTM, NLTK | [Repo](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis)
