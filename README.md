@@ -39,8 +39,14 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikaAnand12&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p> -->
 
+### Web Application Projects
 | Project Name   | Technologies and Techniques                           | Demo/Repo                   |
 |----------------|----------------------------------------|-----------------------------|
 | [GeoChronicle](https://github.com/AshikaAnand12/GeoChronicle)   | FRONTEND: Reactjs, TailwindCSS, PWA, API Handling, Netlify| [Demo](https://geochronicle.netlify.app) |
 | [AirTicket](https://github.com/AshikaAnand12/Flight-booking-project)   | BACKEND: Java, Junit, Design Patterns| [Project Repo](https://github.com/AshikaAnand12/Flight-booking-project) |
 | [Booking.hotel](https://github.com/AshikaAnand12/Booking.hotel)   | FULLSTACK: Reactjs, Login Functionality, Java, AWS, Design Patterns | [Project Repo](https://github.com/AshikaAnand12/Booking.hotel) |
+
+
+### Data Science Projects
+| Project Name   | Technologies and Techniques                           | Demo/Repo                   |
+| [Credit Card Fraud Detector](https://github.com/AshikaAnand12/CreditCardFraudDetector) | Python, PCA, AutoEncoder | [Repo](https://github.com/AshikaAnand12/CreditCardFraudDetector)
