@@ -39,6 +39,7 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikaAnand12&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p> -->
 
-| Project Name   | Technologies and Techniques                           | Demo                   |
+| Project Name   | Technologies and Techniques                           | Demo/Repo                   |
 |----------------|----------------------------------------|-----------------------------|
-| [GeoChronicle](https://github.com/AshikaAnand12/GeoChronicle)   | Reactjs, TailwindCSS, PWA, API Handling| [Demo](https://geochronicle.netlify.app) |
+| [GeoChronicle](https://github.com/AshikaAnand12/GeoChronicle)   | FRONETEND: Reactjs, TailwindCSS, PWA, API Handling| [Demo](https://geochronicle.netlify.app) |
+| [AirTicket](https://github.com/AshikaAnand12/Flight-booking-project)   | BACKEND: Java, Junit, Design Principles| [Project Repo](https://github.com/AshikaAnand12/Flight-booking-project)
