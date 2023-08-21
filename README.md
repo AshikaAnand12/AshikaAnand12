@@ -41,5 +41,5 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
 
 | Project Name   | Technologies and Techniques                           | Demo/Repo                   |
 |----------------|----------------------------------------|-----------------------------|
-| [GeoChronicle](https://github.com/AshikaAnand12/GeoChronicle)   | FRONETEND: Reactjs, TailwindCSS, PWA, API Handling| [Demo](https://geochronicle.netlify.app) |
+| [GeoChronicle](https://github.com/AshikaAnand12/GeoChronicle)   | FRONTEND: Reactjs, TailwindCSS, PWA, API Handling| [Demo](https://geochronicle.netlify.app) |
 | [AirTicket](https://github.com/AshikaAnand12/Flight-booking-project)   | BACKEND: Java, Junit, Design Patterns| [Project Repo](https://github.com/AshikaAnand12/Flight-booking-project)
