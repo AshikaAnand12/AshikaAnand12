@@ -40,7 +40,7 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
 </p> -->
 
 ### Web Application Projects
-| Project Name   | Functionality                         |Technologies and Techniques                           | Demo/Repo                   |
+| Project Name   | Functionality                          |Technologies and Techniques             | Demo/Repo                   |
 |----------------|----------------------------------------|----------------------------------------|-----------------------------|
 | [GeoChronicle](https://github.com/AshikaAnand12/GeoChronicle)   | Find all countries News, map and compare world wide population | FRONTEND: Reactjs, TailwindCSS, PWA, D3.js, API Handling, Netlify| [Demo](https://geochronicle.netlify.app) |
 | [AirTicket](https://github.com/AshikaAnand12/Flight-booking-project)   | Book flight tickets without any hassle |BACKEND: Java, Junit, Design Patterns| [Project Repo](https://github.com/AshikaAnand12/Flight-booking-project) |
