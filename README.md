@@ -40,12 +40,12 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
 </p> -->
 
 ### Web Application Projects
-| Project Name   | Technologies and Techniques                           | Demo/Repo                   |
-|----------------|----------------------------------------|-----------------------------|
-| [GeoChronicle](https://github.com/AshikaAnand12/GeoChronicle)   | FRONTEND: Reactjs, TailwindCSS, PWA, API Handling, Netlify| [Demo](https://geochronicle.netlify.app) |
-| [AirTicket](https://github.com/AshikaAnand12/Flight-booking-project)   | BACKEND: Java, Junit, Design Patterns| [Project Repo](https://github.com/AshikaAnand12/Flight-booking-project) |
-| [CheckInn](https://github.com/AshikaAnand12/Booking.hotel)   | FULLSTACK: Reactjs, Login Functionality, Java, AWS, Design Patterns | [Project Repo](https://github.com/AshikaAnand12/Booking.hotel) |
-| [Yaari]() | FULLSTACK: Reactjs, ChakraUI, Nodejs, MongoDB, Cloudinary, Python, Netlify | In Construction! Be Back!
+| Project Name   | Functionality                         |Technologies and Techniques                           | Demo/Repo                   |
+|----------------|----------------------------------------|----------------------------------------|-----------------------------|
+| [GeoChronicle](https://github.com/AshikaAnand12/GeoChronicle)   | Find all countries News, map and compare world wide population | FRONTEND: Reactjs, TailwindCSS, PWA, D3.js, API Handling, Netlify| [Demo](https://geochronicle.netlify.app) |
+| [AirTicket](https://github.com/AshikaAnand12/Flight-booking-project)   | Book flight tickets without any hassle |BACKEND: Java, Junit, Design Patterns| [Project Repo](https://github.com/AshikaAnand12/Flight-booking-project) |
+| [CheckInn](https://github.com/AshikaAnand12/Booking.hotel)   | Reserve a room, add amenities and monitor dynamic pricing | FULLSTACK: Reactjs, Login Functionality, Java, AWS, Design Patterns | [Project Repo](https://github.com/AshikaAnand12/Booking.hotel) |
+| [Yaari]() | A Whatsapp-like chat app where you can talk to friends and a journal space where you talk to yourself | FULLSTACK: Reactjs, ChakraUI, Nodejs, MongoDB, Cloudinary, Python, Netlify | In Construction! Be Back!
 
 
 ### Data Science Projects
