@@ -55,7 +55,10 @@ I have nearly 3 years of experience as a Software Engineer working on JavaScript
 |----------------|----------------------------------------|-----------------------------|
 | [EnterpriseBot]() | Python, LLM, Open AI API | [Repo](https://github.com/ramyamahesh1126/chatbot)
 | [Covid Vaccine Sentiment Analysis](https://github.com/vishnuvryeruva/Covid-Vaccine-Sentiment-Prediction) | Python, NLTK | [Repo](https://github.com/vishnuvryeruva/Covid-Vaccine-Sentiment-Prediction)
+| [House Price Prediction](https://github.com/AshikaAnand12/House-Listing-Price-Prediction/) | Python, NumPy, Pandas, Seaborn, Matplotlib, Regression techniques, Classifiers | [Repo](https://github.com/AshikaAnand12/House-Listing-Price-Prediction/) |
+
+<!--
+| [Spam Filtering](https://github.com/AshikaAnand12/Spam-Filtering) | Python, NumPy, TF-IDF | [Repo](https://github.com/AshikaAnand12/Spam-Filtering)
 | [Credit Card Fraud Detector](https://github.com/AshikaAnand12/CreditCardFraudDetector) | Python, PCA, AutoEncoder | [Repo](https://github.com/AshikaAnand12/CreditCardFraudDetector) |
 | [Amazon Reviews Sentiment Analysis](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis) | Python, BERT Model, Sequential LSTM, NLTK | [Repo](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis) |
-| [House Price Prediction](https://github.com/AshikaAnand12/House-Listing-Price-Prediction/) | Python, NumPy, Pandas, Seaborn, Matplotlib, Regression techniques, Classifiers | [Repo](https://github.com/AshikaAnand12/House-Listing-Price-Prediction/) |
-| [Spam Filtering](https://github.com/AshikaAnand12/Spam-Filtering) | Python, NumPy, TF-IDF | [Repo](https://github.com/AshikaAnand12/Spam-Filtering)
+-->
