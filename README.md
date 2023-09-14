@@ -6,7 +6,8 @@
 
 I have nearly 3 years of experience as a Software Engineer working on JavaScript and Python libraries and frameworks. I graduated with MS in Software Engineering at San Jose State University with a GPA of 3.88 this May.
 
-#### 📝 [Resume](https://drive.google.com/file/d/1vzGTJvi0EsnGHsC-iFGKBFEpvBJNT0Bn/view?usp=sharing)
+#### 📝 [Resume](https://drive.google.com/file/d/1MW8VQh3T1zIGg_HByA7cKnD5_PybD2ay/view?usp=share_link)
+#### 📰 [Website/Portfolio](https://ashikaanand12.github.io/profile/)
 
 
 ###  🛠 Technologies and Tools   
