@@ -4,7 +4,9 @@
 &nbsp;
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@ashika.pobbathi)
 
-I have nearly 3 years of experience as a Software Engineer working on JavaScript and Python libraries and frameworks. I graduated with MS in Software Engineering at San Jose State University with a GPA of 3.88 this May.
+I am a seasoned Full-Stack Software Engineer with three years of experience in designing, developing, and testing responsive applications. I am passionate about building applications using JavaScript, Java, Python, MERN technology stack (MongoDB, Express, React.js, Node.js) and Agile Methodologies.
+
+I hold a Master of Science degree in Software Engineering with a focus on Data Science from San Jose State University, and my GPA is 3.89 out of 4.0. Additionally, I'm honored to have been awarded the Academic Excellence Scholarship. My proficiency extends to Python, Scikit-Learn, NumPy, Pandas, and various data visualization tools, reflecting a solid foundation in the realm of Software Engineering.
 
 #### 📝 [Resume](https://drive.google.com/file/d/1MW8VQh3T1zIGg_HByA7cKnD5_PybD2ay/view?usp=share_link)
 #### 📰 [Website/Portfolio](https://ashikaanand12.github.io/profile/)
