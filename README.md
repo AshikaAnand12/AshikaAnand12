@@ -65,3 +65,9 @@ I hold a Master of Science degree in Software Engineering with a focus on Data S
 | [Credit Card Fraud Detector](https://github.com/AshikaAnand12/CreditCardFraudDetector) | Python, PCA, AutoEncoder | [Repo](https://github.com/AshikaAnand12/CreditCardFraudDetector) |
 | [Amazon Reviews Sentiment Analysis](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis) | Python, BERT Model, Sequential LSTM, NLTK | [Repo](https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis) |
 -->
+
+### External Repositories with Active Contributions
+1. https://github.com/nlip-project/evaluation-speech-transcriber-app
+2. https://github.com/nlip-project/evaluation-speech-to-text-agent
+3. https://github.com/nlip-project/evaluation-subreddits-agent
+4. https://github.com/nlip-project/evaluation-reddit-search-agent
