@@ -4,7 +4,7 @@
 &nbsp;
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@ashika.pobbathi)
 
-I am a seasoned Full-Stack Software Engineer with three years of experience in designing, developing, and testing responsive applications. I am passionate about building applications using JavaScript, Java, Python, MERN technology stack (MongoDB, Express, React.js, Node.js) and Agile Methodologies.
+I am a seasoned Full-Stack Software Engineer with experience in designing, developing, and testing responsive applications. I am passionate about building applications using JavaScript, Java, Python, MERN technology stack (MongoDB, Express, React.js, Node.js) and Agile Methodologies.
 
 I hold a Master of Science degree in Software Engineering with a focus on Data Science from San Jose State University, and my GPA is 3.89 out of 4.0. Additionally, I'm honored to have been awarded the Academic Excellence Scholarship. My proficiency extends to Python, Scikit-Learn, NumPy, Pandas, and various data visualization tools, reflecting a solid foundation in the realm of Software Engineering.
 
