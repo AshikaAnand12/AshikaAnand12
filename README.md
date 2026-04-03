@@ -8,9 +8,9 @@ I am a seasoned Full-Stack Software Engineer with experience in designing, devel
 
 I hold a Master of Science degree in Software Engineering with a focus on Data Science from San Jose State University, and my GPA is 3.89 out of 4.0. Additionally, I'm honored to have been awarded the Academic Excellence Scholarship. My proficiency extends to Python, Scikit-Learn, NumPy, Pandas, and various data visualization tools, reflecting a solid foundation in the realm of Software Engineering.
 
-#### 📝 [Resume](https://drive.google.com/file/d/1MW8VQh3T1zIGg_HByA7cKnD5_PybD2ay/view?usp=share_link)
-#### 📰 [Website/Portfolio](https://ashikaanand12.github.io/profile/)
+#### 📝 [Resume](https://drive.google.com/file/d/1m-VIZyiZsee-EUSUkSf7dcirMC53Eznu/view?usp=sharing)
 
+#### 📰 [Website/Portfolio](https://ashikaanand12.github.io/profile/)
 
 ###  🛠 Technologies and Tools   
 
