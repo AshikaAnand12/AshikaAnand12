@@ -12,6 +12,9 @@ I hold a Master of Science degree in Software Engineering with a focus on Data S
 
 #### 📰 [Website/Portfolio](https://ashikaanand12.github.io/profile/)
 
+### Research paper
+1. [The Cost of a Hop: Benchmarking NLIP and A2A](https://arxiv.org/abs/2610.04053)
+
 ###  🛠 Technologies and Tools   
 
 <p align="center">
