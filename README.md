@@ -9,7 +9,7 @@ Software Engineer at IBM building agentic AI systems. I architected and shipped 
 I hold a Master of Science in Software Engineering with a focus on Data Science from San Jose State University (GPA 3.89/4.0), where I received the Academic Excellence Scholarship.
 I am passionate about building applications using JavaScript, Java, Python, MERN technology stack (MongoDB, Express, React.js, Node.js) and Agile Methodologies.  My proficiency extends to Python, Scikit-Learn, NumPy, Pandas, and various data visualization tools, reflecting a solid foundation in the realm of Software Engineering.
 
-#### 📝 [Resume](https://drive.google.com/file/d/1m-VIZyiZsee-EUSUkSf7dcirMC53Eznu/view?usp=sharing)
+#### 📝 [Resume](https://drive.google.com/file/d/1aArh54qQIM7MMQp5XlNoHR_HU-IgU7F6/view?usp=sharing)
 
 #### 📰 [Website/Portfolio](https://ashikaanand12.github.io/profile/)
 
