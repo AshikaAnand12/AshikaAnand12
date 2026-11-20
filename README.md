@@ -4,16 +4,19 @@
 &nbsp;
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@ashika.pobbathi)
 
-I am a seasoned Full-Stack Software Engineer with experience in designing, developing, and testing responsive applications. I am passionate about building applications using JavaScript, Java, Python, MERN technology stack (MongoDB, Express, React.js, Node.js) and Agile Methodologies.
+Software Engineer at IBM building agentic AI systems. I architected and shipped an agentic AI assistant for an enterprise content platform, replacing manual document search with natural-language LLM agents, and I work across the stack with Java, React/TypeScript, Python and the Model Context Protocol (MCP).
 
-I hold a Master of Science degree in Software Engineering with a focus on Data Science from San Jose State University, and my GPA is 3.89 out of 4.0. Additionally, I'm honored to have been awarded the Academic Excellence Scholarship. My proficiency extends to Python, Scikit-Learn, NumPy, Pandas, and various data visualization tools, reflecting a solid foundation in the realm of Software Engineering.
+I hold a Master of Science in Software Engineering with a focus on Data Science from San Jose State University (GPA 3.89/4.0), where I received the Academic Excellence Scholarship.
+I am passionate about building applications using JavaScript, Java, Python, MERN technology stack (MongoDB, Express, React.js, Node.js) and Agile Methodologies.  My proficiency extends to Python, Scikit-Learn, NumPy, Pandas, and various data visualization tools, reflecting a solid foundation in the realm of Software Engineering.
 
 #### 📝 [Resume](https://drive.google.com/file/d/1m-VIZyiZsee-EUSUkSf7dcirMC53Eznu/view?usp=sharing)
 
 #### 📰 [Website/Portfolio](https://ashikaanand12.github.io/profile/)
 
-### Research paper
-1. [The Cost of a Hop: Benchmarking NLIP and A2A](https://arxiv.org/abs/2610.04053)
+### ✨ Highlights
+1. Patent: IBM First Patent File Certification for a voice-based authorization invention for humanoid robots, applying speaker verification, role-based permissions and step-up authentication to voice commands (2026)
+2. Research: The Cost of a Hop: Benchmarking NLIP and A2A, accepted at IEEE BigData 2026. An IBM and Red Hat collaboration measuring the communication overhead of agent protocols in multi-agent AI systems
+3. Community: Judge at the UC Berkeley 8th Annual Datathon for Social Good (2026), and judge and career panelist at SpartHill Hacks, San Jose State University (2026)
 
 ###  🛠 Technologies and Tools   
 
